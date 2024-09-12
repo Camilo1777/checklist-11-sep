@@ -1,0 +1,21 @@
+body {
+    background-image:url(imagenes/bk.jpg);
+    color:aliceblue;
+    font-family:monospace
+}
+.iniciosesion {
+    text-align: justify;
+    line-height: 2em;
+}
+.usb{
+    text-align: justify;
+    line-height: 2em;
+
+}
+header{
+    background-image:url(imagenes/bk.jpg);
+}
+.container{
+    background-color: #130916;
+
+}
